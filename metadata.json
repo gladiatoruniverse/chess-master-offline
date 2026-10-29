@@ -1,0 +1,6 @@
+{
+  "name": "Chess Master",
+  "description": "Free, 100% offline Android chess app featuring a 10-level local Stockfish-styleUCI engine, pass-and-play two-player mode, 32+ tactical puzzles, interactive lessons, opening explorer, live evaluation bar, and monotonic clocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

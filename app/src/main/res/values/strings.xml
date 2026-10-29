@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chess Master</string>
+    <string name="subtitle_offline_studio">Free Offline Grandmaster Studio</string>
+    <string name="mode_vs_computer">Play vs Computer</string>
+    <string name="mode_two_player">Two Players</string>
+    <string name="mode_puzzles">Chess Puzzles</string>
+    <string name="mode_learn">Learn Chess</string>
+    <string name="mode_saved_games">Saved Games</string>
+    <string name="mode_settings">Settings &amp; Stats</string>
+    <string name="action_new_game">New Game</string>
+    <string name="action_resume_game">Resume Match</string>
+    <string name="action_undo">Undo</string>
+    <string name="action_hint">Hint</string>
+    <string name="action_analyze">Analyze</string>
+    <string name="action_flip">Flip</string>
+    <string name="action_save">Save</string>
+    <string name="action_resign">Resign</string>
+    <string name="action_draw">Draw</string>
+    <string name="action_restart">Restart</string>
+    <string name="cd_hero_banner">Chess Master Grandmaster Study Banner</string>
+    <string name="cd_back_button">Navigate Back</string>
+    <string name="cd_eval_bar">Live Engine Evaluation Bar</string>
+</resources>
